@@ -1,1 +1,1 @@
-# predicting-rainfall-code
+# predicting rainfall using machine learning technique
